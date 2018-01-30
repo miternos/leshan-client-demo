@@ -3,7 +3,7 @@ package org.eclipse.leshan.client.demo;
 import java.util.Random;
 
 /**
- * Created by eilkakk on 9/22/17.
+ * Created by miternos on 9/22/17.
  */
 public class test {
 
